@@ -1,0 +1,8 @@
+{	
+	"Version":" V Si",
+	"email_to_test":"runbox65@gmail.com",
+	"listname":"./list/listname.txt", 
+	"host": "smtp.office365.com",
+	"telegram": "https://t.me/Fucking",
+	"port": 587
+}
